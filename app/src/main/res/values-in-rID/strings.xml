@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieCatalogue(API)</string>
+    <string name="title_movies">Film</string>
+    <string name="title_tvshows">Acara TV</string>
+    <string name="name">Nama Film</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
